@@ -1,0 +1,56 @@
+CLOUDFLARE DNS MANAGEMENT TOOL - FREEWARE LICENSE
+==================================================
+
+Copyright (c) 2025 Cloudflare DNS Management Tool
+
+FREEWARE LICENSE AGREEMENT
+
+This software is provided as FREEWARE. You may use, copy, and distribute this software freely without any restrictions.
+
+TERMS AND CONDITIONS:
+
+1. FREE USE
+   - This software is provided free of charge
+   - No payment or registration required
+   - Use for personal, commercial, or educational purposes
+
+2. DISTRIBUTION
+   - You may freely distribute this software
+   - Include this license file with all distributions
+   - No modifications to the license terms allowed
+
+3. NO WARRANTY
+   - This software is provided "AS IS" without warranty
+   - No guarantee of functionality or performance
+   - Use at your own risk
+
+4. NO SOURCE CODE
+   - Source code is not included in this freeware version
+   - Binary executables only
+   - For source code access, contact the developer
+
+5. RESTRICTIONS
+   - Do not reverse engineer or decompile
+   - Do not remove copyright notices
+   - Do not claim ownership of this software
+
+6. SUPPORT
+   - Community support available through GitHub Issues
+   - No guaranteed support or updates
+   - Bug reports and feature requests welcome
+
+7. UPDATES
+   - Updates may be released periodically
+   - Check GitHub releases for latest version
+   - No automatic update mechanism
+
+ACCEPTANCE
+==========
+
+By using this software, you agree to these terms and conditions.
+If you do not agree, do not use this software.
+
+For questions or support, visit:
+https://github.com/YOUR_GITHUB_ID/YOUR_FREEWARE_REPO
+
+Last updated: January 2025
